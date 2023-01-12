@@ -2,15 +2,16 @@
 
 Using d3-force with Svelte to auto-layout rectangular divs.
 
-![Demo](./static/forceSim.gif)
+![Demo](./static/demo.gif)
 
 TODO/Possibilties:
 
 - [ ] Multiple Select + Drag
 - [ ] Groups
-- [ ] Rabbit Hole
+- [ ] Rabbit Hole Pagination
 - [ ] Pan/Zoom
 - [ ] Connectors
+- [ ] Themes
 
 ## Developing
 
