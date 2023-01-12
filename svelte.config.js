@@ -16,7 +16,7 @@ const config = {
 		}),
 		paths: {
 			// change below to your repo name
-			base: process.env.NODE_ENV === 'development' ? '' : '/svelte-d3-rectcollide'
+			base: process.env.NODE_ENV === 'development' ? '' : '/force-rectCollide'
 		}
 	}
 };

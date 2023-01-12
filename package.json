@@ -1,5 +1,5 @@
 {
-	"name": "@douganderson444/svelte-d3-rectcollide",
+	"name": "@douganderson444/force-rectcollide",
 	"version": "0.0.2",
 	"scripts": {
 		"dev": "vite dev",
